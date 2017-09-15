@@ -1,0 +1,6 @@
+.idea
+*.iml
+**/derby.log
+lastfm-recommend/metastore_db
+lastfm-recommend/src/main/resources/audioscrobbler
+forest-cover/src/main/resources/covdata
